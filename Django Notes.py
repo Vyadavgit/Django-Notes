@@ -1,4 +1,5 @@
 # Vivek Kumar Yadav, Django notes
+# Citation: freeCodeCamp.org
 
 #_________________________________________Terminal commands_________________________________________________
 '''
